@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.amed.ma	TRUE	/	FALSE	1999999999	yith_wcwl_products	%5B%7B%22prod_id%22%3A%225397%22%2C%22quantity%22%3A1%2C%22wishlist_id%22%3Afalse%2C%22dateadded%22%3A%222019-05-21+15%3A48%3A28%22%7D%5D
+www.amed.ma	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+www.amed.ma	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	bbfe739b1a6ee67b77095a892455b01d
+www.amed.ma	TRUE	/	FALSE	1999999999	wp_woocommerce_session_7eab8804c3e9768347ac7666b014b87c	f2a0cffd1a3ca64c29041b6dc218873d%7C%7C1558613736%7C%7C1558610136%7C%7Cc19759f8919e2314af691be8ce7f1283
+

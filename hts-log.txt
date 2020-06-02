@@ -1,0 +1,88 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 21 May 2019 13:55:57 at http://www.amed.ma/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.amed.ma/ -O1 "C:\My Web Sites\website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:03:37	Warning: 	Retry after error -4 (No data (connection closed)) at link www.amed.ma/xmlrpc.php (from www.amed.ma/)
+14:03:48	Error: 	"Not Found" (404) at link www.amed.ma/wp-content/themes/porto/images/logo/apple-touch-icon_114x114.png (from www.amed.ma/)
+14:03:49	Error: 	"Not Found" (404) at link www.amed.ma/wp-content/themes/porto/images/logo/apple-touch-icon_72x72.png (from www.amed.ma/)
+14:03:50	Error: 	"Not Found" (404) at link www.amed.ma/wp-content/themes/porto/images/logo/apple-touch-icon_144x144.png (from www.amed.ma/)
+14:06:29	Warning: 	Retry after error -4 (No data (connection closed)) at link www.amed.ma/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8.2 (from www.amed.ma/)
+14:06:29	Error: 	"Bad Request" (400) at link www.amed.ma/wp-admin/admin-ajax.php? (from www.amed.ma/)
+15:03:09	Error: 	"Method Not Allowed" (405) at link www.amed.ma/xmlrpc.php (from www.amed.ma/)
+15:03:10	Warning: 	Retry after error -4 (No data (connection closed)) at link www.amed.ma/wp-content/plugins/yith-woocommerce-wishlist/assets/fonts/fontawesome-webfont.ttf?v=4.7.0 (from www.amed.ma/wp-content/plugins/yith-woocommerce-wishlist/assets/css/font-awesome.min.css?ver=4.7.0)
+15:05:28	Error: 	"Not Found" (404) at link www.amed.ma/wp-content/plugins/masterslider/public/assets/css/contrast-skin.png (from www.amed.ma/wp-content/plugins/masterslider/public/assets/css/masterslider.main.css?ver=2.15.0)
+15:06:21	Warning: 	Retry after error -4 (No data (connection closed)) at link www.amed.ma/wp-content/uploads/smile_fonts/Defaults/Defaults.woff?rfa9z8 (from www.amed.ma/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=5.1.1)
+15:06:54	Warning: 	Retry after error -4 (No data (connection closed)) at link www.amed.ma/wp-content/themes/porto/fonts/elusive/elusiveicons-webfont.ttf?v=2.0.0 (from www.amed.ma/wp-content/themes/porto/css/plugins.css?ver=5.1.1)
+15:07:16	Warning: 	Retry after error -4 (No data (connection closed)) at link www.amed.ma/wp-content/themes/porto/images/owl.video.play.png (from www.amed.ma/wp-content/themes/porto/css/plugins.css?ver=5.1.1)
+15:08:32	Warning: 	Moved Permanently for www.amed.ma/?p=6569
+15:08:32	Warning: 	File has moved from www.amed.ma/?p=6569 to http://www.amed.ma/skema-5/
+15:08:39	Warning: 	Retry after error -4 (No data (connection closed)) at link www.amed.ma/wp-content/uploads/2015/07/c1.jpeg (from www.amed.ma/skema-5/)
+15:08:54	Warning: 	Retry after error -4 (No data (connection closed)) at link www.amed.ma/wp-content/uploads/2015/07/cs2.jpg (from www.amed.ma/skema-5/)
+15:09:10	Warning: 	Retry after error -4 (No data (connection closed)) at link www.amed.ma/wp-content/uploads/2015/07/cs6.jpg (from www.amed.ma/skema-5/)
+15:09:20	Warning: 	Retry after error -4 (No data (connection closed)) at link www.amed.ma/wp-content/uploads/2015/07/cs10.jpg (from www.amed.ma/skema-5/)
+15:09:22	Warning: 	Retry after error -4 (No data (connection closed)) at link www.amed.ma/wp-content/uploads/2015/07/h1.jpg (from www.amed.ma/skema-5/)
+15:09:49	Warning: 	Moved Permanently for www.amed.ma/?p=6590
+15:09:49	Warning: 	File has moved from www.amed.ma/?p=6590 to http://www.amed.ma/skema-6/
+15:10:06	Warning: 	Retry after error -4 (No data (connection closed)) at link www.amed.ma/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.amed.ma%2Fskema-6%2F (from www.amed.ma/skema-6/)
+15:10:06	Warning: 	Retry after error -4 (No data (connection closed)) at link www.amed.ma/?p=6608 (from www.amed.ma/skema-8/)
+15:10:23	Warning: 	Moved Permanently for www.amed.ma/?p=6625
+15:10:23	Warning: 	File has moved from www.amed.ma/?p=6625 to http://www.amed.ma/puma-eli-2/
+15:10:29	Warning: 	Moved Permanently for www.amed.ma/?p=6636
+15:10:29	Warning: 	File has moved from www.amed.ma/?p=6636 to http://www.amed.ma/puma-eli-ambidextre/
+15:10:58	Warning: 	Moved Permanently for www.amed.ma/?p=5209
+15:10:58	Warning: 	File has moved from www.amed.ma/?p=5209 to http://www.amed.ma/stern-weber/
+15:11:26	Warning: 	Moved Permanently for www.amed.ma/s-serie/
+15:11:26	Warning: 	File has moved from www.amed.ma/s-serie/ to http://www.amed.ma/stern-weber/s-serie/
+15:11:34	Warning: 	Moved Permanently for www.amed.ma/tr-serie/
+15:11:34	Warning: 	File has moved from www.amed.ma/tr-serie/ to http://www.amed.ma/stern-weber/tr-serie/
+15:11:57	Warning: 	Moved Permanently for www.amed.ma/trc-serie/
+15:11:57	Warning: 	File has moved from www.amed.ma/trc-serie/ to http://www.amed.ma/stern-weber/trc-serie/
+15:12:07	Warning: 	Moved Permanently for www.amed.ma/?p=5667
+15:12:07	Warning: 	File has moved from www.amed.ma/?p=5667 to http://www.amed.ma/solutions-cerec-chairside/
+15:12:31	Warning: 	Moved Permanently for www.amed.ma/cerec-classic/
+15:12:31	Warning: 	File has moved from www.amed.ma/cerec-classic/ to http://www.amed.ma/solutions-cerec-chairside/cerec-classic/
+15:12:40	Warning: 	Moved Permanently for www.amed.ma/cerec-premium/
+15:12:40	Warning: 	File has moved from www.amed.ma/cerec-premium/ to http://www.amed.ma/solutions-cerec-chairside/cerec-premium/
+15:13:01	Warning: 	Moved Permanently for www.amed.ma/cerec-confort/
+15:13:01	Warning: 	File has moved from www.amed.ma/cerec-confort/ to http://www.amed.ma/solutions-cerec-chairside/cerec-confort/
+15:13:08	Warning: 	Moved Permanently for www.amed.ma/?p=6490
+15:13:08	Warning: 	File has moved from www.amed.ma/?p=6490 to http://www.amed.ma/inlab-labside-solutions-2/
+15:13:39	Warning: 	Moved Permanently for www.amed.ma/?p=5756
+15:13:39	Warning: 	File has moved from www.amed.ma/?p=5756 to http://www.amed.ma/materiaux-cfao/
+15:13:59	Warning: 	Moved Permanently for www.amed.ma/?p=6330
+15:13:59	Warning: 	File has moved from www.amed.ma/?p=6330 to http://www.amed.ma/pax-i3d-smart-sc-12x9/
+15:18:06	Warning: 	Moved Permanently for www.amed.ma/?p=6391
+15:18:06	Warning: 	File has moved from www.amed.ma/?p=6391 to http://www.amed.ma/pax-i3d-smart-12x9/
+15:18:12	Warning: 	Retry after error -4 (No data (connection closed)) at link www.amed.ma/wp-content/uploads/2015/07/SMART-03-998x1024.jpg (from www.amed.ma/pax-i3d-smart-12x9/)
+15:18:17	Warning: 	Moved Permanently for www.amed.ma/?p=6401
+15:18:17	Warning: 	File has moved from www.amed.ma/?p=6401 to http://www.amed.ma/pax-i/
+15:18:20	Warning: 	Moved Permanently for www.amed.ma/?p=6424
+15:18:20	Warning: 	File has moved from www.amed.ma/?p=6424 to http://www.amed.ma/pax-i-sc/
+15:18:26	Warning: 	Retry after error -4 (No data (connection closed)) at link www.amed.ma/wp-content/uploads/2015/07/img1_4.jpg (from www.amed.ma/pax-i-sc/)
+15:18:26	Warning: 	Moved Permanently for www.amed.ma/?p=6437
+15:18:26	Warning: 	File has moved from www.amed.ma/?p=6437 to http://www.amed.ma/ezsensor/
+15:18:32	Warning: 	Retry after error -4 (No data (connection closed)) at link www.amed.ma/wp-content/uploads/2015/08/ezs.jpg (from www.amed.ma/ezsensor/)
+15:18:32	Warning: 	Moved Permanently for www.amed.ma/?p=6977
+15:18:32	Warning: 	File has moved from www.amed.ma/?p=6977 to http://www.amed.ma/rsv4/
+15:18:38	Warning: 	Retry after error -4 (No data (connection closed)) at link www.amed.ma/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.amed.ma%2Frsv4%2F (from www.amed.ma/rsv4/)
+15:18:54	Warning: 	Moved Permanently for www.amed.ma/?p=6990
+15:18:54	Warning: 	File has moved from www.amed.ma/?p=6990 to http://www.amed.ma/rvg-5100/
+15:18:59	Warning: 	Retry after error -4 (No data (connection closed)) at link www.amed.ma/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.amed.ma%2Frvg-5100%2F&format=xml (from www.amed.ma/rvg-5100/)
+15:19:10	Warning: 	Moved Permanently for www.amed.ma/?p=6447
+15:19:10	Warning: 	File has moved from www.amed.ma/?p=6447 to http://www.amed.ma/anyray-ii/
+15:19:25	Warning: 	Moved Permanently for www.amed.ma/?p=7469
+15:19:25	Warning: 	File has moved from www.amed.ma/?p=7469 to http://www.amed.ma/produit/carestream-cs-2100/
+15:38:51	Warning: 	Moved Permanently for www.amed.ma/?p=7474
+15:38:51	Warning: 	File has moved from www.amed.ma/?p=7474 to http://www.amed.ma/produit/castellini-x-safe-70/
+15:49:10	Warning: 	Moved Permanently for www.amed.ma/?p=7477
+15:49:10	Warning: 	File has moved from www.amed.ma/?p=7477 to http://www.amed.ma/produit/ardet-orix-70/
+17:50:01	Error: 	Exit requested by shell or user
+17:50:01	Error: 	Exit requested by shell or user
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
